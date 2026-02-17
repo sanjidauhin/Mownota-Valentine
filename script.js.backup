@@ -3,7 +3,7 @@ const pleasingMessages = [
     "Please? 🥺",
     "Don't say no!!!!",
     "Pleaseeeeeeeeeeeee 💕",
-    "I'll get you pasta! 🍝",
+    "তোমার মাথা টিপে দিব! 🍝",
     "Pretty please? 🎀",
     "Come on, you know you want to! 😊",
     "Just say yes! ❤️",
@@ -469,3 +469,4 @@ document.addEventListener('keydown', (e) => {
 });
 
 console.log('💕 Valentine\'s Day Website loaded successfully! 💕');
+
