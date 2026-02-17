@@ -17,7 +17,7 @@ const pleasingMessages = [
     "Say yes, say yes, say yes! 🎉",
     "I'll give you a massage! 💆‍♀️",
     "I'll cook your favorite dinner! 🍽️",
-    "We can watch your favorite movie! 🎬",
+    "তোমার সাথে মুভি দেখব! 🎬",
     "I'll bring you chocolate! 🍫",
     "You are my sunshine! ☀️",
     "My heart beats for you! 💓",
@@ -494,3 +494,4 @@ document.addEventListener('keydown', (e) => {
 
 console.log('💕 Valentine\'s Day Website loaded successfully! - VERSION 8.0 (DOM FIX) 💕');
 console.log('Debugging: Button moved to BODY to escape transform context');
+
