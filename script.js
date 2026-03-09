@@ -62,6 +62,20 @@ const pleasingMessages = [
     "Weight loss করব! 🥺",
     "Six Pack is on the way!",
     "তোমাকে বার বার কল দিয়ে জ্বালাবো না! ⏳"
+    "Please? 🥺",
+    "Don't say no!!!!",
+    "Pleaseeeeeeeeeeeee 💕",
+    "তোমার মাথা টিপে দিব! 🍝",
+    "রাত্রি please? 🎀",
+    "মৌনতা, আমি তো শুধু তোমারই! 😊",
+    "Just say yes! ❤️",
+    "ঢাকার রাস্তায় হাটু গেড়ে প্রোপোজ আর কে করবে তোমাকে? 🌟",
+    "তোমাকে রান্না করে খাওয়াবো! 🙏",
+    "তোমাকে ছাড়া কিভাবে বাঁচব আমি... 😢",
+    "One more chance? 🌹",
+    "তোমার ঐ মিষ্টি হাসি আমি বড্ড ভালোবাসি! 😄",
+    "তোমার জন্য কুমিল্লা কে আসবে? 💑",
+    "তোমার জন্য এত কবিতা আর কে লিখবে বলো! 💔",
 ];
 
 let noClickCount = 0;
@@ -494,5 +508,6 @@ document.addEventListener('keydown', (e) => {
 
 console.log('💕 Valentine\'s Day Website loaded successfully! - VERSION 8.0 (DOM FIX) 💕');
 console.log('Debugging: Button moved to BODY to escape transform context');
+
 
 
