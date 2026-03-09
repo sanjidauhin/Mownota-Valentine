@@ -4,16 +4,16 @@ const pleasingMessages = [
     "Don't say no!!!!",
     "Pleaseeeeeeeeeeeee 💕",
     "তোমার মাথা টিপে দিব! 🍝",
-    "Pretty please? 🎀",
-    "Come on, you know you want to! 😊",
+    "রাত্রি please? 🎀",
+    "মৌনতা, আমি তো শুধু তোমারই! 😊",
     "Just say yes! ❤️",
-    "Think about all the good times! 🌟",
-    "I'll do anything! 🙏",
-    "You're making me sad... 😢",
+    "ঢাকার রাস্তায় হাটু গেড়ে প্রোপোজ আর কে করবে তোমাকে? 🌟",
+    "তোমাকে রান্না করে খাওয়াবো! 🙏",
+    "তোমাকে ছাড়া কিভাবে বাঁচব আমি... 😢",
     "One more chance? 🌹",
-    "I promise to always make you smile! 😄",
-    "We're perfect together! 💑",
-    "Don't break my heart! 💔",
+    "তোমার ঐ মিষ্টি হাসি আমি বড্ড ভালোবাসি! 😄",
+    "তোমার জন্য কুমিল্লা কে আসবে? 💑",
+    "তোমার জন্য এত কবিতা আর কে লিখবে বলো! 💔",
     "Say yes, say yes, say yes! 🎉"
 ];
 
@@ -469,4 +469,5 @@ document.addEventListener('keydown', (e) => {
 });
 
 console.log('💕 Valentine\'s Day Website loaded successfully! 💕');
+
 
